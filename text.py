@@ -4,10 +4,10 @@ from twilio.rest import Client
 
 
 def sent_text_message(message):
-    twilio_account_sid = "ACc416905d4eea04a741d1ac212aea8c12"
-    twilio_account_token = "d41297ba4512219c2f3046901393a3fb"
-    twilio_phone_num = "+12565677456"
-    your_phone_number = "+14165565725"
+    twilio_account_sid = ""
+    twilio_account_token = ""
+    twilio_phone_num = "+"
+    your_phone_number = "+"
     client = Client(twilio_account_sid, twilio_account_token)
 
     client.messages.create( 
