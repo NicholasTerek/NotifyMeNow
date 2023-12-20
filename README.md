@@ -1,5 +1,6 @@
 # Timed Text Notifier
 ![image](https://github.com/NicholasTerek/NotifyMeNow/assets/139080309/2d0f11c9-e8cf-4a24-aef9-395184b8a34d)
+![image](https://github.com/NicholasTerek/TimedTextNotifier/assets/139080309/112fd503-2a9d-4a5f-a50d-02ddcb8424ce)
 
 ## About
 
